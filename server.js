@@ -49,7 +49,6 @@ app.post("/api/notes", (req, res) => {
                 })
             }
         })
-
     })
 })
 
